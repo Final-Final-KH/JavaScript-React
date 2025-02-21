@@ -39,7 +39,7 @@ import UserAfterLight from "../images/user_after.png";
 import UserAfterDark from "../images/user_after-1.png";
 
 import {ToggleImg} from "./TopBar";
-// waterkong 브랜치 구성 관련 수정 테스트2
+// waterkong 브랜치 구성 관련 수정 테스트3
 
 const SideBarContainer = styled.div`
     width: 80px;
