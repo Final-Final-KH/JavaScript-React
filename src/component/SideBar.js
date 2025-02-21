@@ -42,7 +42,7 @@ import {ToggleImg} from "./TopBar";
 // waterkong 브랜치 구성 관련 수정 테스트5
 
 const SideBarContainer = styled.div`
-    width: 800px;
+    width: 80px;
     height: 100%;
     padding: 0 1vw;
     background: ${({ darkMode }) => (darkMode ? "#000" : "#F0F0F0")};
