@@ -39,10 +39,10 @@ import UserAfterLight from "../images/user_after.png";
 import UserAfterDark from "../images/user_after-1.png";
 
 import {ToggleImg} from "./TopBar";
-// waterkong 브랜치 구성 관련 수정 테스트3
+// waterkong 브랜치 구성 관련 수정 테스트4
 
 const SideBarContainer = styled.div`
-    width: 80px;
+    width: 8px;
     height: 100%;
     padding: 0 1vw;
     background: ${({ darkMode }) => (darkMode ? "#000" : "#F0F0F0")};
